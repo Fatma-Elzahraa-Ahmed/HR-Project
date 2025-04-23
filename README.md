@@ -6,3 +6,6 @@ workforce.
 ## Dataset used 
 - <a href="https://github.com/Fatma-Elzahraa-Ahmed/HR-Project/blob/main/employee_Updatednew.csv">EmployeeDataset</a>
 - <a href="https://github.com/Fatma-Elzahraa-Ahmed/HR-Project/blob/main/Performance_Updatednew.csv">PerformanceDataset</a>
+- <a href="https://github.com/Fatma-Elzahraa-Ahmed/HR-Project/blob/main/SatisfiedLevel_Updatednew.csv">SatistifactionDataset</a>
+- <a href="https://github.com/Fatma-Elzahraa-Ahmed/HR-Project/blob/main/RatingLevel_Updatednew.csv">RatingDataset</a>
+- <a href="https://github.com/Fatma-Elzahraa-Ahmed/HR-Project/blob/main/EducationLevel_Updatednew.csv">EducationDataset</a>
