@@ -1,0 +1,2 @@
+# HR-Project
+HR Analysis is the process of using employee data to gain insights that help organizations make better decisions about their people. It involves collecting, organizing, and analyzing data related to employee performance, satisfaction, hiring, training, and turnover to understand what drives success within the workforce.
